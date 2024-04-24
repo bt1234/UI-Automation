@@ -1,0 +1,16 @@
+{
+  "usernamepasswordarray": [{"user":"standard_user","password":"wrongPassword123"},{"user":"locked_out_user","password":"wrongPassword123"},{"user":"problem_user","password":"wrongPassword123"},{"user":"performance_glitch_user","password":"wrongPassword123"},{"user":"error_user","password":"wrongPassword123"},{"user":"visual_user","password":"wrongPassword123"}],
+  "username":"standard_user",
+  "correctpassword": "secret_sauce",
+  "incorrectpassword":"wrongPassword123",
+  "firstproducttext":"Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.",
+  "lastproducttext":"It's not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office.",
+  "name":"Bhavishya",
+  "lastname":"Tyagi",
+  "postalcode":"249408",
+  "firstproductprice":"$7.99",
+  "lastproductprice":"$49.99",
+  "confirmationtext":"Your order has been dispatched, and will arrive just as fast as the pony can get there!",
+  "confirmationtitletext": "Checkout: Complete!"
+
+}
