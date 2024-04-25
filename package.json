@@ -6,7 +6,9 @@
   "scripts": {
     "test": "npx cypress run --headed --browser chrome",
     "record-dashboard": "npm run test -- --record --no-exit --key f990c193-d465-4e00-a6ad-f9622a5f87cf",
-    "runframework": "npm run test -- --spec 'cypress/integration/examples/*.js'"
+    "framework": "npm run test -- --spec 'cypress/integration/examples/Framework.js'",
+    "test-3": "npm run test -- --spec 'cypress/integration/examples/interview-q3.js'",
+    "feature": "npm run test -- --spec 'cypress/integration/examples/BDD/*.feature'"
   },
   "author": "",
   "license": "ISC",
