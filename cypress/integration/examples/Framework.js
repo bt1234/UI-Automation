@@ -57,6 +57,7 @@ describe('Suite', function () {
   })
 
   it('second question', function () {
+    //tag:regression
     //To add first and last element after filter lo to hi
     cy.visit(Cypress.env('url'))
 
