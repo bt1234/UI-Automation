@@ -155,6 +155,4 @@ describe('Suite', function () {
     confirmationPage.getConfirmationTextElement().should('contain', this.data.confirmationtext)
 
   })
-
-
 })
