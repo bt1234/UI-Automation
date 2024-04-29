@@ -52,5 +52,4 @@ describe('Suite', function () {
     cy.get('[data-test="complete-text"]').should('contain', 'Your order has been dispatched, and will arrive just as fast as the pony can get there!')
 
   })
-
 })
