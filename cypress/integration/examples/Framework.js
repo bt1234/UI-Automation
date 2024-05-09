@@ -14,6 +14,10 @@ import ConfirmationPage from "../PageObjects/ConfirmationPage"
 
 
 //Test Suite for the SauceDemo website
+//1. Login with wrong password
+//2. Add first and last element after filter lo to hi
+//3. Add any element to cart and checkout
+
 describe('Suite', function () {
   let productsPage = new ProductsPage()
   let loginPage = new LoginPage()
