@@ -1,5 +1,7 @@
 /// <reference types = "Cypress" />
 
+
+
 //import LoginPage from '/Users/bhavi/CypressAutomation/cypress/integration/examples/LoginPage.js'
 
 import LoginPage from "../PageObjects/LoginPage"
