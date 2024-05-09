@@ -10,8 +10,10 @@ import CheckoutPage2 from "../PageObjects/CheckoutPage2"
 import ConfirmationPage from "../PageObjects/ConfirmationPage"
 
 //https://github.com/cypress-io/cypress/issues/27501 open issue 
-//websit is failing to fire load event, need to add chromeWebSecurity: false in cypress.congif.js
+//website is failing to fire load event, need to add chromeWebSecurity: false in cypress.congif.js
 
+
+//Test Suite for the SauceDemo website
 describe('Suite', function () {
   let productsPage = new ProductsPage()
   let loginPage = new LoginPage()
